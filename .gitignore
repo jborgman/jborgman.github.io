@@ -2,3 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+_pages/category-archive.md
+_pages/tag-archive.md
+_pages/year-archive.md
