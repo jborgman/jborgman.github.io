@@ -16,9 +16,11 @@
 title: Josh Borgman
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  A place to catch my random thoughts and musings.
-twitter_username: @joshborgman
-github_username: @jborgman
+  A place for my occasional, meandering and spurrious thoughts. I love to meet
+  new people and talk about just about anything. My personal interests include data
+  science, physics, nature and traveling.
+twitter_username: joshborgman
+github_username: jborgman
 minimal_mistakes_skin: default
 search: true
 
@@ -56,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Joshua Borgman"
+  name   : "JB"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "foo bar baz"
+  bio    : "Chicago-based analyst with an interest in tech, finance, and nature."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
