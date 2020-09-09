@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-# Well hello there...
+### Well hello there...
 
 My name is Josh. I work across all things data and analytics, ranging from strategy and business application to technical development and engineering.
 
@@ -12,7 +12,7 @@ Most of my current work involves cross-functional applications of BI engineering
 Business Sub-Domains: 
 - Finance; P&L segmentation, cash flow analysis, etc.
 - Credit/Risk Management; Acquisition and credit line strategy
-- Marketing; Market segmentation, A/B testing (quasi experimenta), propensity modelling, LTV/life cycle valuation
+- Marketing; Market segmentation, A/B testing (quasi experiments), propensity modelling, LTV/life cycle segmentation
 
 ---
 
